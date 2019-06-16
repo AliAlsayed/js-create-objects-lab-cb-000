@@ -28,7 +28,3 @@ function Fish(name, breed){
   this.name = name;
   this.breed = breed;
 }
-
-
-
-
