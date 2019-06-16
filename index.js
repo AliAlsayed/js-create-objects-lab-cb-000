@@ -23,3 +23,12 @@ function Bird(name, breed){
   this.name = name;
   this.breed = breed;
 }
+
+function Fish(name, breed){
+  this.name = name;
+  this.breed = breed;
+}
+
+
+
+
