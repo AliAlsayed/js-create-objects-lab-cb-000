@@ -19,7 +19,7 @@ function Ferret(name, age, foodRequirements){
 }
 
 
-function Cat(name, breed){
+function Bird(name, breed){
   this.name = name;
   this.breed = breed;
 }
